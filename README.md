@@ -6,4 +6,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/user-attachments/assets/6bb674d4-adcd-4cf2-8bc7-d94aaebb1ebb)
+
